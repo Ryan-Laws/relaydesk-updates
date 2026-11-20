@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "published": "2026-11-20T02:34:30Z",
+  "tested": [
+    {
+      "version": "2.1.329",
+      "min_app": "0.1.8",
+      "published": "2026-11-20T02:34:30Z"
+    },
+    {
+      "version": "2.1.328",
+      "min_app": "0.1.5",
+      "published": "2026-11-19T02:32:16Z"
+    },
+    {
+      "version": "2.1.327",
+      "min_app": "0.1.5",
+      "published": "2026-11-18T02:41:17Z"
+    },
+    {
+      "version": "2.1.326",
+      "min_app": "0.1.5",
+      "published": "2026-11-17T02:47:48Z"
+    },
+    {
+      "version": "2.1.325",
+      "min_app": "0.1.5",
+      "published": "2026-11-16T15:17:43Z"
+    }
+  ],
+  "models": []
+}

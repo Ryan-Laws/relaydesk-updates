@@ -1,7 +1,12 @@
 {
   "schema": 1,
-  "published": "2026-11-21T02:41:14Z",
+  "published": "2026-11-24T02:55:11Z",
   "tested": [
+    {
+      "version": "2.1.331",
+      "min_app": "0.1.17",
+      "published": "2026-11-24T02:55:11Z"
+    },
     {
       "version": "2.1.330",
       "min_app": "0.1.10",
